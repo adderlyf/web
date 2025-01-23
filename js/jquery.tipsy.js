@@ -1,0 +1,1 @@
+No Content: http://versac.com.pe/js/jquery.tipsy.js
