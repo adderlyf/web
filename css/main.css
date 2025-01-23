@@ -3031,6 +3031,12 @@ html[xmlns] .slides {
     margin-bottom: 25px;
 }
 
+#carousel .slides img {
+    width: 100%; /* Esto asegura que las imágenes se ajusten al ancho del contenedor */
+    max-width: 235px; /* Ajusta el valor según el tamaño deseado */
+    height: auto; /* Mantén la proporción de la imagen */
+}
+
 .carousel li {
     margin-right: 5px
 }
